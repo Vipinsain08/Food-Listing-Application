@@ -1,5 +1,5 @@
-﻿# Good-Food-Zone
-Good Food Zone is a simple food ordering application developed as a learning project. It includes essential features such as adding food items, searching for food, and categorizing them. The backend is built using Spring Boot, providing RESTful APIs to manage food data, while the frontend is powered by React for a smooth user interface. This project serves as a demonstration of full-stack development skills, focusing on API integration, database interactions, and responsive UI design.
+﻿# Food-Listing-Application
+It is a simple food Listing application developed as a learning project. It includes essential features such as adding food items, searching for food, and categorizing them. The backend is built using Spring Boot, providing RESTful APIs to manage food data, while the frontend is powered by React for a smooth user interface. This project serves as a demonstration of full-stack development skills, focusing on API integration, database interactions, and responsive UI design.
 
 ![Screenshot 2024-08-31 183030](https://github.com/user-attachments/assets/4dfd82bf-4c1c-45be-a137-705e290fc72f)
 
